@@ -64,7 +64,7 @@ src/
 💻 Як запустити проєкт
 Склонуйте репозиторій:
 
-git clone https://github.com/anastasiiayerashova/university.git
+git clone https://github.com/akula2akula2-a11y/univer
 Відкрийте проєкт у вашій IDE (наприклад, IntelliJ IDEA)
 
 Перейдіть до файлу src/main/java/university/Main.java
