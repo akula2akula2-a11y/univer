@@ -77,7 +77,5 @@ Artem Kalshchykov — Junior Backend Developer passionate about writing clean an
 "I'm a Junior Backend Developer with a strong commitment to building reliable and maintainable solutions. I strive to grow professionally by taking on meaningful challenges and collaborating with motivated teams. I approach each task with responsibility and dedication, always aiming to deliver my best work. My adaptability and eagerness to learn help me stay effective in dynamic, fast-paced environments"
 
 📫 Contact
-LinkedIn
-GitHub
 Email: kalsikovartem@gmail.com
 Thank you for checking out the project! If you found it helpful or interesting, feel free to leave a ⭐ on the repository.
